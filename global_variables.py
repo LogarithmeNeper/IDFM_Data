@@ -1,0 +1,1 @@
+METRO_LINES = [f'IDFM:C0{id}' for id in range(1371, 1385)] # 1371 corresponds to Metro 1, 1372 to Metro 2, etc.
